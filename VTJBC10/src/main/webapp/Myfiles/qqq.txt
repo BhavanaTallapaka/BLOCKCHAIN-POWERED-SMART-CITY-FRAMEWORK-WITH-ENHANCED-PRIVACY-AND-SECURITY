@@ -1,0 +1,44 @@
+Session 1: Workshop Introduction
+	Brief introduction to Full-Stack Development
+	Goals of the workshop
+	Tools and software setup: JDK, Eclipse, MySQL, Tomcat 	Server.
+
+
+Session 2: Frontend Basics
+	HTML basics: Semantic structure, forms, and tables
+	CSS basics: Styling, layouts, responsiveness
+	JavaScript basics: DOM manipulation, event handling
+==================================================================================================
+
+Session 3: Backend Fundamentals with Java
+	Flask or Django basics: Setting up the environment, creating routes, and handling requests
+	Template rendering with Jinja2 (Flask) or Django templates
+	Sending and receiving data from forms
+
+Session 4: Introduction to MySQL
+	MySQL basics: Installation, database creation, table creation
+	CRUD operations using MySQL commands
+	Relationships in databases: Primary keys, foreign keys
+
+Session 5: Integration of Flask/Django with MySQL
+	Setting up MySQL with Python using mysql-connector-python or SQLAlchemy
+	Storing form data into MySQL
+	Retrieving and displaying data from MySQL
+
+==================================================================================================
+Implementation
+
+Session 1:  Flask/Django
+	Introduction to APIs
+	Creating and Integrating with Flask or Django
+
+
+Session 2: Authentication and Authorization
+	User authentication: Login and registration system
+ 	
+	
+
+Session 3: Deployment
+	Introduction to deploying a web app
+	Connecting to a Git
+
